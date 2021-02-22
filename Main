@@ -1556,3 +1556,330 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://c.mjh.nz/snowy-mountains/?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Undefined",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:hlscat.com
+
+
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="News;Undefined",3News Now (KMTV-TV),CBS 3 KMTV,US | Omaha | CBS 3 KMTV
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KMTV– Omaha NE)
+http://mags.vip:2086/live/miriam/miriam123/90250.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KMTV– Omaha NE)
+http://mags.vip:2086/live/jav/jav123/90250.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="Entertainment;Undefined",MTV,MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://mags.vip:2086/live/miriam/miriam123/158.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://mags.vip:2086/live/jav/jav123/158.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22561?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://mags.vip:2086/live/miriam/miriam123/95484.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/11174?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV (M)(1080)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58067?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2
+http://mags.vip:2086/live/miriam/miriam123/15488.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2
+http://mags.vip:2086/live/jav/jav123/15488.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2
+http://mags.vip:2086/live/miriam/miriam123/95394.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2 (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58068?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2 FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64088.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2 FHD 1080
+http://mags.vip:2086/live/jav/jav123/64088.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Undefined",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Undefined",MTV Block Party
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Classic (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58069?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png" group-title="Undefined",MTV Dating
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=330&deviceId=5ca6899a37b88b269472ea4b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64089.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV FHD 1080
+http://mags.vip:2086/live/jav/jav123/64089.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV HD
+http://rv.imax.re:80/691101116461401/691101116461401/80988?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://mags.vip:2086/live/miriam/miriam123/8848.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://mags.vip:2086/live/jav/jav123/8848.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://mags.vip:2086/live/miriam/miriam123/95511.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://rv.imax.re:80/691101116461401/691101116461401/80989?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Undefined",MTV Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Live (M)(SD)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58066?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Live FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/75390?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Undefined",MTV Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Rocks
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/75389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Undefined",MTV Spankin' New
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV U
+http://mags.vip:2086/live/miriam/miriam123/56360.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV U
+http://mags.vip:2086/live/jav/jav123/56360.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV U (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58070?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV2
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/22563?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC (WMTV-Madison WI)
+http://mags.vip:2086/live/miriam/miriam123/90273.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC (WMTV-Madison WI)
+http://mags.vip:2086/live/jav/jav123/90273.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/qOO32m6.png" group-title="Local",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA MTV 2
+http://media-kings.xyz:8080/tek1/tek1/38911?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA MTV East UHD
+http://media-kings.xyz:8080/tek1/tek1/38913?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA MTV Live
+http://media-kings.xyz:8080/tek1/tek1/38914?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA MTV U
+http://media-kings.xyz:8080/tek1/tek1/38916?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA MTV UHD
+http://supersonictv.live:25461/903310/034806/22120?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-MTV (M)(1080)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58067?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-MTV 2 (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58068?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-MTV Classic (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58069?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-MTV Live (M)(SD)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58066?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-MTV U (M)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58070?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Undefined",Yo! MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
+
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Music FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/33410?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF MUSIC
+http://mags.vip:2086/live/miriam/miriam123/93120.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF MUSIC
+http://mags.vip:2086/live/jav/jav123/93120.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF Music
+http://attacktv.ddns.net:2052/0110/0110/55393?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF Music HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/33414?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",MIX MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/81950?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",MY MUSIC
+http://mags.vip:2086/live/miriam/miriam123/93165.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",MY MUSIC
+http://mags.vip:2086/live/jav/jav123/93165.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",MY MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/81969?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Music
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/33449?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",My Music
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/33468?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",SKY MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/81952?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",SYRI BLU MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/81960?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Music.Sha3beyat
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58470.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Rotana.Music
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58298.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music;Undefined",Music Top,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Music",City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Music",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="Music",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",BN MUSIC HD
+http://attacktv.ddns.net:2052/12345/54321/42350?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Music Box Brazil HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/108329?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BG Music
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Balkanika Music TV
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/31733?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bn Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",MUSIC Channel
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/31810?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",SunriseMusic
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128188?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Music",CA Much Music UHD
+http://media-kings.xyz:8080/tek1/tek1/34495?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUCH MUSIC
+http://mags.vip:2086/live/miriam/miriam123/13228.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUCH MUSIC
+http://mags.vip:2086/live/jav/jav123/13228.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUCH MUSIC HD Ca
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/49097?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUSIC PLUS
+http://rv.imax.re:80/691101116461401/691101116461401/83258?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUSIC PLUS (FR)
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/24293?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Retro Music Television
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/musica/retrotv.png" group-title="Music;Undefined",Retro Music Television,Retro TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://bit.ly/2m3sY3Y?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Music",A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="Music;Undefined",CONTACT music,Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 MUSIC
+http://mags.vip:2086/live/jav/jav123/92272.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 MUSIC
+http://epiciptvrestreamer.com:8000/tonio/tonio/237?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/78315?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/78973?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 MUSIC HD
+http://media-kings.xyz:8080/tek1/tek1/147093?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 MUSIC HIT HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 Music
+http://newlook.to:80/amy3_ce2307/749558/134756?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 Music
+http://attacktv.ddns.net:2052/salman/salman/49637?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 Music
+http://hd.waldi2017.com:2082/110023041214988/81515121/3042?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 Music H265
+http://attacktv.ddns.net:2052/salman/salman/49822?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6 Music HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119387?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV Music
+http://tvog.eu:8080/ibrahim/08.03.2020/119421?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MUSIC TV HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119423?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",RFM TV MUSIC HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119515?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",RFM TV MUSIC HD
+http://epiciptvrestreamer.com:8000/tonio/tonio/144?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/ku9kLp8.png" group-title="Undefined",Music Box Georgia
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Brandnite TV Music
+http://tvog.eu:8080/ibrahim/08.03.2020/137340?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Chaula Music HD
+http://tvog.eu:8080/ibrahim/08.03.2020/137305?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Music",DE DELUXE MUSIC HD
+http://vip47.xyz:8080/Fadel20021/ZFRnJnKT9W/8545?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DELUXE MUSIC
+http://supersonictv.live:25461/903310/034806/78347?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DELUXE MUSIC HD
+http://rv.imax.re:80/691101116461401/691101116461401/83148?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DEUTSCHE MUSIC
+http://tvog.eu:8080/ibrahim/08.03.2020/137309?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music
+http://live.darkside-iptv.com:8080/test/test/19836?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137307?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music FHD
+http://live.darkside-iptv.com:8080/test/test/22940?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music FHD
+http://media-kings.xyz:8080/tek1/tek1/146392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music HD
+http://185.71.66.6:8080/sandra/123456/28452?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music HD
+http://miami.usa.pizzo56h99.xyz:80/roberto/roberto/225817?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/15050?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music HD
+http://media-kings.xyz:8080/tek1/tek1/146520?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music HEVC
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/78487?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Folx Music TV
+http://tvog.eu:8080/ibrahim/08.03.2020/137319?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV Music 24
+http://tvog.eu:8080/ibrahim/08.03.2020/137327?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MusicTop
+http://tvog.eu:8080/ibrahim/08.03.2020/137329?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",One Music HD
+http://tvog.eu:8080/ibrahim/08.03.2020/137332?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Music",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Music;Undefined",1Music Channel Hungary
+http://1music.hu/1music.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Music",HU (HD) Music Channel HU
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/35540?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U MUSIC
+http://mags.vip:2086/live/jav/jav123/95074.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Sun Music HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/57948.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",MUSIC TOP
+http://mags.vip:2086/live/jav/jav123/100300.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Undefined",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Euro Indie Music Chart TV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/648154?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",MTV 8 Musica
+http://odiniptv.com:8000/1001/1001/31051?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Music",Sky Mtv Music FHD
+http://miami.usa.pizzo56h99.xyz:80/roberto/roberto/134654?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Music;Undefined",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",MTV 24 Music HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122991?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",MTV 24 Music HD
+http://attacktv.ddns.net:2052/salman/salman/44168?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",MTV MUSIC 24
+http://mags.vip:2086/live/miriam/miriam123/92945.ts?checkedby:hlscat.com
+
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24/7 : METALOCALYPSE
+http://mags.vip:2086/live/jav/jav123/36436.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",MUSIC : MUSIC CHOICE METAL
+http://mags.vip:2086/live/jav/jav123/98708.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Music",Metal TV
+http://v1.catcast.me/content/33816/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Music",Metal
+http://media-kings.xyz:8080/tek1/tek1/38928?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Metalocalypse (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",08 :  MC Metal
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3180?checkedby:hlscat.com
+
