@@ -2081,6 +2081,17 @@ https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",MTV LIVE HD
+http://forsat.men:8888/merpatistream/merpati99/9110
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV" tvg-logo="https://fimgs.net/images/dizajneri/o.2508.jpg" group-title="Music",MTV
+http://forsat.men:8888/merpatistream/merpati99/281
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Music" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png" group-title="Music",MTV Music
+http://forsat.men:8888/merpatistream/merpati99/286
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER_400x400.jpg" group-title="Music",MTV Hits
+http://forsat.men:8888/merpatistream/merpati99/287
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="Music",MTV Dance
+http://forsat.men:8888/merpatistream/merpati99/288
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="Music",MTV Classic
+http://forsat.men:8888/merpatistream/merpati99/289
 
 
