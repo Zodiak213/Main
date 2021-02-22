@@ -1502,60 +1502,7 @@ http://mags.vip:2086/live/jav/jav123/98521.ts?checkedby:hlscat.com
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Undefined",ABC AU
-https://c.mjh.nz/101002210221/?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/DQqcXqk.png" group-title="Kids",ABC Kids
-https://c.mjh.nz/101002210222/?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/wIdfcUx.png" group-title="Undefined",ABC Me
-https://c.mjh.nz/101002210224/?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Undefined",ABC NEWS
-http://mags.vip:2086/live/jav/jav123/99594.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",AFL TV 24/7 (AUSTRALIAN FOOTBALL LEAGUE)
-http://mags.vip:2086/live/jav/jav123/18431.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News;Undefined",AU | Australia Channel,Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Undefined",AUSTRALIA CHANNEL
-http://mags.vip:2086/live/jav/jav123/99465.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Undefined",Ausbiz TV
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="Undefined",Bloomberg Australia
-https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="Business",Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="Business",Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="Shop",Expo Channel
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="Shop",Expo Channel
-https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",FOX SPORTS NEWS
-http://mags.vip:2086/live/jav/jav123/99595.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Undefined",MIS Televizija
-https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Undefined",RACING.COM Melbourne
-https://allvue.live:443/alan/alan/494027?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/hgwckSr.png" group-title="Undefined",Snowy Mountains Television
-https://c.mjh.nz/snowy-mountains/?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Undefined",TVSN
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:hlscat.com
+
 
 
 
@@ -2131,5 +2078,19 @@ https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 
 #EXTINF:-1 tvg-id="tv.3aw.melbourne" tvg-logo="https://i.mjh.nz/.images/tv.3aw.melbourne.png",3AW Melbourne
 https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24/7 : FOSTERS HOME FOR IMAGINARY FRIENDS
+http://mags.vip:2086/live/jav/jav123/65535.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24/7 : FRIENDS
+http://mags.vip:2086/live/jav/jav123/17850.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24/7 : GIRLFRIENDS
+http://mags.vip:2086/live/jav/jav123/64869.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",24/7 : SPIDERMAN AND HIS AMAZING FRIENDS
+http://mags.vip:2086/live/jav/jav123/65302.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Friends
+http://odiniptv.com:8000/1001/1001/28673?checkedby:hlscat.com
+
+
+
 
 
