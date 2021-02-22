@@ -1490,3 +1490,6 @@ http://odiniptv.com:8000/1001/1001/28673?checkedby:hlscat.com
 #EXTINF:-1, MTV Rocks HD
 http://odiniptv.com:8000/1001/1001/31058?checkedby:hlscat.com
 
+#EXTINF:-1, Heavy Metal Television
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+
