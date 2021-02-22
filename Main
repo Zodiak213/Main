@@ -1486,3 +1486,7 @@ https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
 
 #EXTINF:-1, 24/7 Friends
 http://odiniptv.com:8000/1001/1001/28673?checkedby:hlscat.com
+
+#EXTINF:-1, MTV Rocks HD
+http://odiniptv.com:8000/1001/1001/31058?checkedby:hlscat.com
+
