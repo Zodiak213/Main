@@ -1496,9 +1496,11 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1, VH1
 https://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&checkedby:hlscat.com
 
+#EXTINF:-1, VH1: I Love Reality
+http://mags.vip:2086/live/jav/jav123/98521.ts?checkedby:hlscat.com
 
-
-
+#EXTINF:-1, Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="tv.101406030635" tvg-logo="https://i.mjh.nz/.images/tv.101406030635.png",TEN
 https://i.mjh.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
